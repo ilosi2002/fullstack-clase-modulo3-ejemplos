@@ -48,3 +48,20 @@ puts "12  +  12"
 
 # puts "2" * "5"
 # in `*': no implicit conversion of String into Integer (TypeError)
+
+
+#
+# Variables
+#
+
+# Uso basico
+name = 'Patricia Rosanna Jessica Mildred Oppenheimer'
+puts 'Me llamo ' + name + '.'
+puts 'Wow!  "' + name + '" es un nombre realmente largo!'
+
+# Modificacion
+composer = 'Mozart'
+puts composer + ' fue "el amo", en su día.'
+
+composer = 'Beethoven'
+puts 'Pero yo prefiero a ' + composer + ', personalmente.'
