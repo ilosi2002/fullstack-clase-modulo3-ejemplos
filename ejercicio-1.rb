@@ -55,7 +55,7 @@ puts "12  +  12"
 #
 
 # Uso basico
-name = 'Patricia Rosanna Jessica Mildred Oppenheimer'
+name = 'Kevin Andrés Peña Severiche'
 puts 'Me llamo ' + name + '.'
 puts 'Wow!  "' + name + '" es un nombre realmente largo!'
 
