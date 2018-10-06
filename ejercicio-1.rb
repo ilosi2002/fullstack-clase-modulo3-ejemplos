@@ -35,7 +35,7 @@ puts "Me gusta" + " el pastel de manzana."
 puts "parpadeo " * 4
 
 # Aclaracion texto vs numero
-puts  12  +  12
+puts  120  +  102
 puts "12" + "12"
 puts "12  +  12"
 
